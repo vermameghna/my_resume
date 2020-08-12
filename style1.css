@@ -189,30 +189,30 @@ section:nth-child(2n+1)
 
 #fifty-percent{
    background-color: orange;
-   width: 75%;
+   width: 90%;
    box-shadow: 10px 0px 10px grey;
 }
 
 
 #seventy-percent{
 	background-color: green;
-	width: 70%;
+	width: 90%;
 	box-shadow: 10px 0px 10px grey;
 }
 #forty-nine-percent{
 	background-color: teal;
-	width: 49%;
+	width: 85%;
 	box-shadow: 10px 0px 10px grey;
 }
 #fifty-five-percent{
 	background-color: violet;
-	width:55%;
+	width:90%;
 	box-shadow: 10px 0px 10px grey;
 }
 
 #sixty-percent{
 	background-color: red;
-	width:60%;
+	width:80%;
 	box-shadow: 10px 0px 10px grey;
 }
 
